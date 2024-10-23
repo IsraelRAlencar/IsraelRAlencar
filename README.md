@@ -1,6 +1,5 @@
-## 👋 Hi, I'm Israel!
-
-I'm CEO and Software Engineer at @gecontrolsistemas and a Computer Engineering student at UFMS.
+## 👋 Hi, I'm Israel the CEO and a Software Engineer at [GeControl Systems](https://www.gecontrolsistemas.com.br)
+Student of Computer Engineering at UFMS.
 Currently learning more about C#, .NET Core, Entity Framework, React, TypeScript and more... focusing on Web Development.
 Fluent in English and graduated from the language school Wizard by Pearson.
 
@@ -13,5 +12,5 @@ Fluent in English and graduated from the language school Wizard by Pearson.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelRAlencar&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=one_dark_pro)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
