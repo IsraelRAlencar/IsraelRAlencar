@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Israel the CEO and a Software Engineer at [GeControl Systems](https://www.gecontrolsistemas.com.br)
+## 👋 Hi, I'm Israel a Software Engineer at [GeControl Systems](https://www.gecontrolsistemas.com.br)
 Student of Computer Engineering at UFMS.
 Currently learning more about C#, .NET Core, Entity Framework, React, TypeScript and more... focusing on Web Development.
 Fluent in English and graduated from the language school Wizard by Pearson. [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/israel-alencar-432815245) 
