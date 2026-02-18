@@ -1,5 +1,5 @@
-## 👋 Hi, I'm Israel a Software Engineer at [GeControl Systems](https://www.gecontrolsistemas.com.br)
-Student of Computer Engineering at UFMS.
+## 👋 Hi, I'm Israel a Software Engineer
+Computer Engineering graduate from UFMS.
 Currently learning more about C#, .NET Core, Entity Framework, React, TypeScript and more... focusing on Web Development.
 Fluent in English and graduated from the language school Wizard by Pearson. [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/israel-alencar-432815245) 
 
@@ -11,4 +11,3 @@ Fluent in English and graduated from the language school Wizard by Pearson. [![L
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=one_dark_pro)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
